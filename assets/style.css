@@ -839,6 +839,11 @@ body.light-mode .material-symbols-outlined {
     .title-container h1{
         font-size: 34px;
     }
+
+    .light-nav li{
+        width: 45px !important;    
+        height: 50px !important;
+    }
 }
 
 body.light-mode, 
